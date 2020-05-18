@@ -4,7 +4,8 @@ class Translation(object):
     For using me Contact:@MrPerfect01
     👉 I Can Upload Files To Telegram 
     SUPPORT CHANNEL:@TR_Moviezss 
-    Just Send Me A File Or Direct Link 😘
+    Just Send Me A File Or Direct Link 😘 """
+    
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "Contact @MrPerfect01 to Upgrade "
