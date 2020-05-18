@@ -3,11 +3,11 @@ class Translation(object):
     /help to know how to use me
     For using me Contact:@MrPerfect01
     👉 I Can Upload Files To Telegram 
-    SUPPORT CHANNEL :@TR_Moviezss 
+    SUPPORT CHANNEL:@TR_Moviezss 
     Just Send Me A File Or Direct Link 😘
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Contact @MrPerfect01 To Upgrade "
+    UPGRADE_TEXT = "Contact @MrPerfect01 to Upgrade "
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
