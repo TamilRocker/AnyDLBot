@@ -1,9 +1,9 @@
 class Translation(object):
     START_TEXT = """👋Hi I'm TR Anydl Bot😊
     /help to know how to use me
-    For using me Contact:@MrPerfect01
+  For using me Contact:@MrPerfect01
     👉 I Can Upload Files To Telegram 
-    SUPPORT CHANNEL:@TR_Moviezss 
+  SUPPORT CHANNEL:@TR_Moviezss 
     Just Send Me A File Or Direct Link 😘 """
     
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
