@@ -1,14 +1,14 @@
 class Translation(object):
-    START_TEXT = """👋Hi I'm TR Anydl Bot😊
+    START_TEXT = """👋Hi I'm <b>TR Anydl Bot😊<b>
     /help to know how to use me
-  For using me Contact:@Ultralegends01
-    👉 I Can Upload Files To Telegram 
-  SUPPORT CHANNEL:@TR_Moviezss 
-    Just Send Me A File Or Direct Link 😘 """
+<b>For using me Contact:@Ultralegends01<b>
+    <b>👉 I Can Do Multiple Things<b>
+ <b>SUPPORT CHANNEL:@TR_Moviezss<b>
+     Just Send Me A File Or Direct Link 😘 """
     
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Contact @Ultralegends01 to Upgrade "
+    UPGRADE_TEXT = " <b> Contact @Ultralegends01 to Upgrade <b> "
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -18,7 +18,7 @@ URL | filename | username | password"""
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.Join <b>@TR_MOVIEZSS<b> nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
