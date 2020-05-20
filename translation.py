@@ -1,9 +1,9 @@
 class Translation(object):
-    START_TEXT = """👋Hi I'm <b>TR Anydl Bot😊<b>
+    START_TEXT = """👋Hi I'm <b>TR Anydl Bot😊:</b>
     /help to know how to use me
-<b>For using me Contact:@Ultralegends01<b>
-    <b>👉 I Can Do Multiple Things<b>
- <b>SUPPORT CHANNEL:@TR_Moviezss<b>
+<b>For using me Contact:@Ultralegends01:</b>
+    <b>👉 I Can Do Multiple Things:</b>
+ <b>SUPPORT CHANNEL:@TR_Moviezss:</b>
      Just Send Me A File Or Direct Link 😘 """
     
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
@@ -18,7 +18,7 @@ URL | filename | username | password"""
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.Join <b>@TR_MOVIEZSS<b> nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.Join <b>@TR_MOVIEZSS:</b> nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
